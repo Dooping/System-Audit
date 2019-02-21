@@ -1,0 +1,5 @@
+Ciphersuite: TLS_RSA_WITH_AES_256_CBC_SHA256
+Authentication: Target
+Want-Authentication: False
+Handshake-Start-Flow: Client
+Protocol: TLSv1.2
